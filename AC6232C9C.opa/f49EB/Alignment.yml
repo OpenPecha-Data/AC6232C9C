@@ -1,0 +1,26 @@
+segment_sources:
+  I94BB1338:
+    type: origin_type
+    relation: translation
+    language: en
+  IFD41F742:
+    type: origin_type
+    relation: translation
+    language: pt
+  IB8673735:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  e0f776a6a96749b79c2047907d578680:
+    I94BB1338: 43624bf61e124b90ad138ecf2e5dbb29
+    IFD41F742: 8a438061a983420a859fdd37f2c851ec
+    IB8673735: d1c1a3a0383e433b9d9be9208159bdc7
+  653ba2c61e434b8598676f487fedf165:
+    I94BB1338: f798a6ccc1294ebf93ac7f88bba0f71c
+    IFD41F742: 4860cb75182a47f1b5b8edcc067094d9
+    IB8673735: af207ea81ca94dc8a1e3616982caf3e0
+  fcaf2be24b3b4acfa8a12996270dac57:
+    I94BB1338: 30048c13abc44592bad0a9b8fbc2a84c
+    IFD41F742: c61e5a34603f45d1a8fe77cad5637481
+    IB8673735: 34619b66744e4bcbbd52d3801edc3bef
